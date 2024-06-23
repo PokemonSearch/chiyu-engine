@@ -2,6 +2,10 @@
 # What does it do?
 Chi-Yu Engine is a library that allows the easy access of the PokeAPI data used in [PokeSearch](https://pokemonsearch.github.io) and more importantly, the [Chi-Yu Game](https://pokemonsearch.github.io/chiyu).\
 The main goal of this engine is to reduce the initial work required to create similar projects.
+# Installation
+```console
+npm install chiyu-engine
+```
 # Example (Node.js)
 ```javascript
 const engine = require("../engine/data.js");

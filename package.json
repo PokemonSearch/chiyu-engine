@@ -1,14 +1,11 @@
 {
   "name": "chiyu-engine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Engine for pokemon search",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "CheeseMans",
-  "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^2.7.0"
-  }
+  "license": "ISC"
 }
